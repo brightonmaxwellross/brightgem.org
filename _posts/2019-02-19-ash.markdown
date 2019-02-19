@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Ash"
+date:   2019-02-19 13:03:00 -0700
+---
+I have a dog named Ash! He is the cutest puppy in the wolrld! He is alomost 2 years old and is a border collie lab mix! But he is a small pup!
+
+![Ash!](/../assets/ash-2019-02-19.jpg)
