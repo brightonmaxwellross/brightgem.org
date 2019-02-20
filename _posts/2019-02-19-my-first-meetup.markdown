@@ -3,7 +3,7 @@ layout: post
 title: "my first meet up"
 date:   2019-02-19 10:48:00 -0700
 ---
-My first ruby meet up went well i got to share about [my d&d related game](https://github.com/brightonmaxwellross/dice.rb/blob/master/dice.rb) this is what I shared...
+My first ruby meet up went well I got to share about [my d&d related game](https://github.com/brightonmaxwellross/dice.rb/blob/master/dice.rb) this is what I shared...
 
 ----
 
