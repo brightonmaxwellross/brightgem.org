@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "summer break"
-date:   2019-04-25 12:17 -0700
+date:   2019-06-04 18:01 -0700
 ---
 
 School is almost over! It will be over in 16 days. When school is over I will go to Great Wolf Lodge! I cant wait for school to end!
